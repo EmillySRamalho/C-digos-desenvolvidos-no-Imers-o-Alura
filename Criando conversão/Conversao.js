@@ -5,4 +5,4 @@ var nome = "Emilly";
 var valorEmReal = valorEmBitcoin * cotacaoDoBitcoin;
 valorEmReal = valorEmReal.toFixed(2);
 
-alert("Olá " + nome + "," + " o valor do Dolar está " + " R$ " + valorEmReal);
+alert("Olá " + nome + "," + " o valor do Bitcoin está " + " R$ " + valorEmReal);
